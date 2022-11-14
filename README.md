@@ -1,4 +1,4 @@
-# Project Title
+# GUI_Calculator
 
 One Paragraph of project description goes here
 
