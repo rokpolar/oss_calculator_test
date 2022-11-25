@@ -23,9 +23,6 @@ class Main(QDialog):
 
         self.number_display = QLineEdit("")
 
-        ### layout_equation_solution 레이아웃에 수식, 답 위젯을 추가
-        # layout_equation_solution.addRow(label_equation, self.equation)
-        # layout_equation_solution.addRow(label_solution, self.solution)
         layout_equation_solution.addRow(self.number_display)
 
         ### 사칙연상 버튼 생성
