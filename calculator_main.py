@@ -122,3 +122,4 @@ if __name__ == '__main__':
     sys.exit(app.exec_())
     
     change
+    수정을 한다고 하면
